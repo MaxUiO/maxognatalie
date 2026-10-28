@@ -1,0 +1,12 @@
+title: Max & Natalie
+description: Informasjon om bryllupet til Max og Natalie.
+url: "https://www.maxognatalie.no"
+baseurl: ""
+lang: nb
+nav:
+  - title: Hjem
+    url: /
+  - title: Om oss
+    url: /om-oss/
+  - title: Veien Dit
+    url: /veien-dit/
