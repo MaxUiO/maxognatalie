@@ -8,5 +8,7 @@ nav:
     url: /
   - title: Om oss
     url: /om-oss/
-  - title: Veien Dit
-    url: /veien-dit/
+  # - title: Veien Dit
+  #   url: /veien-dit/
+  - title: Svar
+    url: /rsvp/
