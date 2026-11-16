@@ -7,7 +7,7 @@ permalink: /rsvp/
 
 <article class="rsvp">
   <p class="eyebrow">Vi håper du kommer</p>
-  <h1>Svar på invitasjonen</h1>
+  <h1> Svar paa invitasjonen</h1>
   <p>Fyll ut skjemaet nedenfor for å fortelle oss om du kommer, og om du har noen matallergier eller andre hensyn vi bør vite om.</p>
   <iframe
     class="rsvp-form"
